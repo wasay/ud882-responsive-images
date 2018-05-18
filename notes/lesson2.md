@@ -1,4 +1,4 @@
-Lesson 7
+Lesson 2
 
 width: calc((100% - 10px)/2);
 

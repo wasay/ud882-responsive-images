@@ -1,8 +1,3 @@
-Lesson 1-5 = ud893
-Lesson 6-9 = ud882
-
-
-
 1 device independent pixel may not be same as 1 hardware pixel
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
